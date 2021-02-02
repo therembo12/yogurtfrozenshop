@@ -1,0 +1,36 @@
+.new_product {
+  height: 260px;
+  background-color: #eae7e8;
+}
+.new_product h3:first-of-type {
+  margin-top: 40px;
+  font-size: 20pt;
+  font-family: "Lato Bold";
+  color: rgb(122, 102, 102);
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+}
+.new_product h3:nth-of-type(2) {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  font-size: 24pt;
+  font-family: "Magra Bold";
+  color: #e32a62;
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+}
+.new_product span:first-of-type {
+  font-size: 14pt;
+  font-family: "Roboto Regular";
+  color: #9f9191;
+}
+.new_product1 img:first-of-type {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.new_product1 {
+  position: relative;
+}
